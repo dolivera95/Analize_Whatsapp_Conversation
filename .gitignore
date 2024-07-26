@@ -1,0 +1,12 @@
+# Ignorar archivos específicos en el proyecto
+
+source/chat.txt
+fuente/Extraer/mensajes.csv
+fuente/Transformacion/emojis.csv
+fuente/Transformacion/mensaje_omitido.csv
+fuente/Transformacion/mensajes.csv
+fuente/Transformacion/urls.csv
+fuente/Cargar/emojis.csv
+fuente/Cargar/mensaje_omitido.csv
+fuente/Cargar/mensajes.csv
+fuente/Cargar/urls.csv
