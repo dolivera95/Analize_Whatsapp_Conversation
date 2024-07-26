@@ -10,3 +10,6 @@ fuente/Cargar/emojis.csv
 fuente/Cargar/mensaje_omitido.csv
 fuente/Cargar/mensajes.csv
 fuente/Cargar/urls.csv
+
+# No ignorar archivos .gitkeep
+!*/.gitkeep
