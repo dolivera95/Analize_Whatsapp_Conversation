@@ -11,3 +11,6 @@ A partir de estas tablas, generar un Dashboard en Power Bi para poder analizar i
 - Ranking de los emojis más utilizados
 - Ranking de los dominios web que más se comparten
 - Promedio de mensajes por contacto
+
+## Link del dashboard en Power Bi:
+[Dashboard Power Bi](https://app.powerbi.com/view?r=eyJrIjoiZjhjMDc4MmMtZDhlZS00YmRkLTg4ZmEtYjEyZWE2ZjIzMWViIiwidCI6IjRmZjM4NTQ0LWY1YzEtNDRiZS1hZmNiLWU2ZmU1MzRkYTdiNCIsImMiOjR9)
